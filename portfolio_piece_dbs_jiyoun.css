@@ -1,0 +1,25 @@
+h1 {font-family: arial;
+    text-align: center;
+    color: #35599E;
+    font-size: 30px;
+    text-decoration : bold; 
+    font: arial;}
+h2 {font-family: arial;
+    text-align: left;
+    color: #35599E;
+    font-size: 25px;
+    text-decoration : bold; 
+    font: arial;
+    padding-left:10%;}
+p { font-family: arial;
+}
+
+.paragraphs{
+    padding-left: 10%; 
+    padding-right: 10%;
+    line-height:1.5;
+}
+.image-container{
+    padding-top:0px;
+    margin-top:0px;
+}
